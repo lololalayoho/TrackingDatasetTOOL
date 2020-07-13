@@ -36,7 +36,7 @@ python tracking_KCF.py
 ### 3. 키보드 p를 누른다.
 * label1.csv , label2.csv 파일에 각각 Label 0, Label 1의 데이터가 떨어진다.
 
-<img src = "/image/label0.jpg" width = "350" height = "200"><img src = "/image/label1.jpg" width = "350" height = "200">
+<img src = "/image/label0.jpg" width = "350" height = "200">     <img src = "/image/label1.jpg" width = "350" height = "200">
 
 ### 4. 키보드 a 또는 s를 누른다.
 * 키보드 a : 비디오 다시 재생
