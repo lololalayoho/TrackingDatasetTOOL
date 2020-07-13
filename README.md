@@ -9,6 +9,7 @@
 <pre>
 <code>
 git clone https://github.com/lololalayoho/trackingDatasetTOOL.git
+5번 줄 편집 : 경로 바꾸기
 python tracking_KCF.py
 </code>
 </pre>
